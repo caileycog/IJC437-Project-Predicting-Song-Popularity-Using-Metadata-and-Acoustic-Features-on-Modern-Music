@@ -13,7 +13,7 @@ In 2023, music labels spent a record high of $8.1 billion US on artist procureme
 
 1.	What are the primary acoustic features that influence song popularity, and how well do acoustic features overall predict the song popularity of modern music?
 
-Answer: Duration, valence, and energy (order varies depending on the model) were found to be the primary acoustic features that drive popular modern music. Additionally, the low AUC scores (.56 and .58), poor sensitivity (.023 and .11), and a low very Nagelkerke R2(.027) suggest that hit song research should move away from analysing acoustic features to other, more impactful variables that predict song popularity. 
+Answer: Duration, valence, and energy (order varies depending on the model) were found to be the primary acoustic features that drive popular modern music. Additionally, the low AUC scores (.56 and .58), poor sensitivity (.023 and .11), and a very low Nagelkerke R2(.027) suggest that hit song research should move away from analysing acoustic features to other, more impactful variables that predict song popularity. 
 
 2.	What are the primary metadata features that influence song popularity, and how well do metadata features overall predict the song popularity of modern music?
 
